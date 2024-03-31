@@ -24,4 +24,4 @@ I created a notebook for each of the questions above.
 
 ## Results
 
-The main findings of the code can be found at a [post I published on Medium]().
+The main findings of the code can be found at a [post I published on Medium](https://medium.com/@pedro.matos_10851/how-do-we-really-feel-about-working-remotely-d015b92821f8).
